@@ -1,4 +1,4 @@
-This System answers the folowing questions:
+This System answers the folowing questions:\n
 What is total revenue per month?
 Who are top 10 customers by revenue?
 What is repeat purchase rate?
