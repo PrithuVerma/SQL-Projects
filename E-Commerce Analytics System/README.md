@@ -52,3 +52,7 @@ The system outputs structured metrics that can be used for:
 - Dashboards
 - Reports
 - Further analysis or modeling
+
+## Schema
+<img width="821" height="720" alt="Screenshot 2026-02-15 224927" src="https://github.com/user-attachments/assets/ca788211-239f-40bd-8d99-2cc4b64617b7" />
+
