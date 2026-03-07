@@ -20,13 +20,8 @@ Banking/
 
 The project uses a normalized banking database with 5 interconnected tables:
 
-```
-customers ──────────── loans
-    │
-    └── accounts ───── transactions
-            │
-            └── branches
-```
+<img width="587" height="453" alt="Screenshot 2026-03-07 at 4 51 25 PM" src="https://github.com/user-attachments/assets/33cf3f24-b897-470e-ba6a-2ce45c1863ec" />
+
 
 | Table | Description |
 |-------|-------------|
