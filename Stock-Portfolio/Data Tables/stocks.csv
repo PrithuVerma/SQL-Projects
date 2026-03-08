@@ -1,0 +1,16 @@
+stock_id,ticker,company_name,sector,exchange
+1,AAPL,Apple Inc.,Technology,NASDAQ
+2,MSFT,Microsoft Corporation,Technology,NASDAQ
+3,GOOGL,Alphabet Inc.,Technology,NASDAQ
+4,AMZN,Amazon.com Inc.,Technology,NASDAQ
+5,META,Meta Platforms Inc.,Technology,NASDAQ
+6,JPM,JPMorgan Chase & Co.,Finance,NYSE
+7,BAC,Bank of America Corp.,Finance,NYSE
+8,GS,Goldman Sachs Group Inc.,Finance,NYSE
+9,JNJ,Johnson & Johnson,Healthcare,NYSE
+10,PFE,Pfizer Inc.,Healthcare,NYSE
+11,INFY,Infosys Limited,Technology,NYSE
+12,TCS.NS,Tata Consultancy Services,Technology,NSE
+13,RELIANCE.NS,Reliance Industries,Energy,NSE
+14,HDFCBANK.NS,HDFC Bank Ltd.,Finance,NSE
+15,WIPRO.NS,Wipro Limited,Technology,NSE
