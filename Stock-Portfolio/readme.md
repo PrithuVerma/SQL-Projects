@@ -137,7 +137,7 @@ Things this project accounts for that a beginner project typically does not:
 
 ## Related Projects
 
-- [Banking Schema & Queries]([../banking-project](https://github.com/PrithuVerma/SQL-Projects/tree/main/Banking)) — account management, transactions, loan tracking
+- [Banking Schema & Queries](https://github.com/PrithuVerma/SQL-Projects/tree/main/Banking)— account management, transactions, loan tracking
 
 ---
 
