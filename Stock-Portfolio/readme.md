@@ -35,23 +35,6 @@ These are the kinds of questions a data analyst at a fintech, investment bank, o
 
 ---
 
-## Project Structure
-
-```
-stock-portfolio/
-├── schema.sql                              # Table definitions + indexes
-├── seed_data.sql                           # Realistic sample data
-├── queries/
-│   ├── tier1_joins/
-│   │   └── 01_joins_and_aggregations.sql   # JOINs, GROUP BY, CASE WHEN
-│   ├── tier2_subqueries/
-│   │   └── 02_subqueries_and_ctes.sql      # CTEs, correlated subqueries, NOT EXISTS
-│   └── tier3_window_functions/
-│       └── 03_window_functions.sql         # RANK, SUM OVER, LAG, NTILE, moving averages
-```
-
----
-
 ## Query Highlights
 
 ### Tier 1 — JOINs & Aggregations
