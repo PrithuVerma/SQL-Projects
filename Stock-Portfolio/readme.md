@@ -19,11 +19,8 @@ These are the kinds of questions a data analyst at a fintech, investment bank, o
 
 ## Schema Overview
 
-```
-investors ──< portfolios ──< trades >── stocks
-                                  └──< daily_prices
-                                  └──< dividends
-```
+<img width="628" height="431" alt="Screenshot 2026-03-11 at 12 18 50 AM" src="https://github.com/user-attachments/assets/820bf365-0db0-42a4-8c28-f7a9ce7bcc4a" />
+
 
 | Table | Purpose | Key Columns |
 |---|---|---|
