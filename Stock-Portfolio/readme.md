@@ -1,4 +1,5 @@
 # 📈 Stock Portfolio & Investment Tracker — SQL Project
+[SQL Project Live Demo](https://sql-projects-bfpnftttdekdx44syabwsm.streamlit.app/)
 
 A multi-table relational database project built to demonstrate production-level SQL skills in a finance/investment domain. Designed for data analyst roles.
 
